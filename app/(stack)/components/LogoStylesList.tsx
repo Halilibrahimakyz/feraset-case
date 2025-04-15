@@ -1,7 +1,7 @@
 // Component for displaying a horizontal list of logo style options
 import { View, Text, StyleSheet, FlatList } from 'react-native';
 import React, { useCallback } from 'react';
-import { logoStyles } from '../../../src/constants/logoStyles';
+import { logoStyles } from '@/constants/logoStyles';
 import LogoStyleItem from './LogoStyleItem';
 
 // Props interface for LogoStylesList component

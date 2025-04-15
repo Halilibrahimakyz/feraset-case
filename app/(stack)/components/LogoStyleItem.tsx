@@ -1,7 +1,7 @@
 // Component for displaying a logo style option with selection functionality
 import { View, Text, StyleSheet, Image, Pressable } from 'react-native';
 import React from 'react';
-import { logoStyles } from '../../../src/constants/logoStyles';
+import { logoStyles } from '@/constants/logoStyles';
 
 // Props interface for LogoStyleItem component
 interface LogoStyleItemProps {

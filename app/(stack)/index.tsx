@@ -1,13 +1,13 @@
 import { View, Text, StyleSheet, Image, Pressable, TextInput } from 'react-native';
 import React, { useState, useRef, useCallback } from 'react';
 import { Header } from '@/components/Header';
-import { useCreateLogo } from '../../src/hooks/useCreateLogo';
+import { useCreateLogo } from '@/hooks/useCreateLogo';
 import { CustomToast } from '@/components/CustomToast';
 import { useRouter } from 'expo-router';
 import LogoStylesList from './components/LogoStylesList';
 import CreateButton from './components/CreateButton';
 import CustomInput from './components/CustomInput';
-import { logoStyles } from '../../src/constants/logoStyles';
+import { logoStyles } from '@/constants/logoStyles';
 
 type ToastStatus = 'creating' | 'completed' | 'failed' | null;
 
