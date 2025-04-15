@@ -36,6 +36,9 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "fonts": {
+      "Manrope": "./assets/fonts/Manrope-VariableFont_wght.ttf"
     }
   }
 }
