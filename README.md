@@ -4,7 +4,8 @@ This is a mobile application developed for Feraset case study using React Native
 
 ## Demo Video
 
-[![Demo Video](https://github.com/Halilibrahimakyz/feraset-case/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Pro%20Max%20-%202025-04-15%20at%2019.37.42.mp4)](https://github.com/Halilibrahimakyz/feraset-case/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Pro%20Max%20-%202025-04-15%20at%2019.37.42.mp4) 
+https://github.com/user-attachments/assets/887dc152-8593-495c-8fdb-460726023381
+
 
 ## Features
 
