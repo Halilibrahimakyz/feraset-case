@@ -2,6 +2,10 @@
 
 This is a mobile application developed for Feraset case study using React Native Expo. The application simulates an AI Logo & Art Generator with two main screens: Input and Output.
 
+## Demo Video
+
+[![Demo Video](https://github.com/Halilibrahimakyz/feraset-case/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Pro%20Max%20-%202025-04-15%20at%2019.37.42.mp4)](https://github.com/Halilibrahimakyz/feraset-case/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Pro%20Max%20-%202025-04-15%20at%2019.37.42.mp4) 
+
 ## Features
 
 - Input Screen (/app/(stack)/index.tsx): User can enter required information
